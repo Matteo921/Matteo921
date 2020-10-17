@@ -23,8 +23,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Matteo921/github-readme-stats">
   ![Matteo921 github stats](https://github-readme-stats.vercel.app/api?username=Matteo921&show_icons=true&theme=dark&count_private=true)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo921&exclude_repo=shop-readme-stats,Matteo921.github.io)](https://github.com/Matteo921/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo921&langs_count=10)](https://github.com/Matteo921/github-readme-stats)
-
-
 </a>
