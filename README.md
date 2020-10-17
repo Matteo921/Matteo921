@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Matteo921/github-readme-stats">
   ![Matteo921 github stats](https://github-readme-stats.vercel.app/api?username=Matteo921&show_icons=true&theme=dark&count_private=true)
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo921&langs_count=10)](https://github.com/Matteo921/github-readme-stats)
-[![Matthew wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matteo921)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo921&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Mattheo921 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matteo921)](https://github.com/anuraghazra/github-readme-stats)
