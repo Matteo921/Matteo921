@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-### My Github STATS
+### <a>My Github STATS</a>
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Matteo921&count_private=true" />
