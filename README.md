@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<span align="center">My Github STATS</span>
+<p text-align="center">My Github STATS</p>
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matteo921&show_icons=true&theme=dark&count_private=true)
+<a href="https://github.com/Matteo921/github-readme-stats">
+  ![Matteo921 github stats](https://github-readme-stats.vercel.app/api?username=Matteo921&show_icons=true&theme=dark&count_private=true)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo921&exclude_repo=shop-readme-stats,Matteo921.github.io)](https://github.com/Matteo921/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo921&langs_count=10)](https://github.com/Matteo921/github-readme-stats)
 
 
 </a>
